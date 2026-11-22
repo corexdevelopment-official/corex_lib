@@ -15,4 +15,4 @@ https://corex-website-c3u.pages.dev/docs/#corex-lib
 
 ## Our Discord
 
-discord.com/invite/corexdevelopment
+https://discord.com/invite/corexdevelopment
